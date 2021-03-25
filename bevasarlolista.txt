@@ -4,3 +4,5 @@
 4. zsemle
 5. joghurt
 6. vaj
+7. virag
+8. csoki
