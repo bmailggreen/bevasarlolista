@@ -4,4 +4,6 @@
 4. zsemle
 5. alma
 6. banan
+7. chips
+8. cola
 
